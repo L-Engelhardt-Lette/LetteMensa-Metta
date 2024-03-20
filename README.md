@@ -8,4 +8,4 @@ Eine App entwickelt von der Mia25 für die Lette Verein Mensa
 
 - Organisation: Herr Milbradt, Ludwig
 
-- Dev Team: Ole, Jakob, Niklas, Efe, Bahty, Can, Dennis, Malon, Leonard
+- Dev Team: Ole, Jakob, Niklas, Efe, Bahty, Can, Marlon, Leonard
